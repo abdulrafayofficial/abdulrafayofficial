@@ -1,210 +1,122 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Abdul Rafay 👋</h1>
 
-Hi 👋, I'm Abdul Rafay
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;130-Day+AI%2FML+Challenge+in+Progress;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+130+Projects+%E2%80%94+One+Day+at+a+Time" alt="Typing SVG" />
+</p>
 
-Aspiring AI/ML Engineer from Pakistan 🇵🇰
-
-🚀 Currently on a 130-Day AI/ML Coding Challenge
-
-<p>
-  <a href="https://github.com/abdulrafayofficial">
-    <img src="https://komarev.com/ghpvc/?username=abdulrafayofficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  </a>
-  <a href="https://github.com/abdulrafayofficial?tab=followers">
-    <img src="https://img.shields.io/github/followers/abdulrafayofficial?label=Followers&style=flat" alt="Followers">
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulrafayofficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Challenge-130%20Days-0e75b6?style=flat&logo=github" alt="130 Day Challenge" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=flat" alt="status" />
   <a href="https://github.com/abdulrafayofficial?tab=repositories">
-    <img src="https://img.shields.io/github/stars/abdulrafayofficial?label=Stars&style=flat" alt="Stars">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabdulrafayofficial&style=flat" alt="Total Repos" />
   </a>
 </p>
 
-</div>
+---
 
-👨‍💻 About Me
+### 🧠 About Me
 
-I'm an aspiring AI/ML Engineer focused on building strong foundations in Python, Data Science, Machine Learning, Deep Learning, and modern AI systems.
+- 🔭 Currently working on my **[130-Day AI/ML Roadmap](https://github.com/abdulrafayofficial)** — Python → Data Science → Machine Learning → LLMs & Agentic AI
+- 🌱 Currently learning **Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, LangChain & RAG systems**
+- 💡 Building **130 hands-on projects** as part of this journey — one project per day, no skipping
+- 👯 Looking to collaborate on **AI/ML and Data Science projects**
+- 🤝 Looking for help with **real-world Machine Learning & Deep Learning projects**
+- 👨‍💻 All of my projects are available at **[github.com/abdulrafayofficial](https://github.com/abdulrafayofficial)**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning basics**
+- 📫 Reach me at **abdulrafayofficial@gmail.com**
+- ⚡ Fun fact: *"Skip days? Never skip. Shorten the task, not the streak." 🔥*
 
-🔭 Currently working on 130-Day AI/ML Coding Challenge
+---
 
-🌱 Currently learning Python, NumPy, Pandas, Scikit-learn, PyTorch, LangChain & RAG
+### 🗺️ My 130-Day AI/ML Roadmap
 
-🤖 Interested in Machine Learning, Deep Learning, LLMs & Agentic AI
+| Phase | Focus | Days | Status |
+|:-----:|-------|:----:|:------:|
+| **Phase 1** | Python Mastery — The Unbreakable Foundation | 1 – 35 | 🔄 In Progress |
+| **Phase 2** | Data Manipulation — NumPy, Pandas & Visualization | 36 – 60 | ⏳ Upcoming |
+| **Phase 3** | Core ML Foundations — Practical Machine Learning | 61 – 100 | ⏳ Upcoming |
+| **Phase 4** | Modern Applied AI — LLMs, RAG & Agentic Systems | 101 – 130 | ⏳ Upcoming |
 
-📊 Exploring Data Science & Data Analysis
+> 📌 Tip: update the **Status** column as you clear each phase — change ⏳ to ✅
 
-👯 Looking to collaborate on AI/ML & Data Science projects
+---
 
-🤝 Looking for opportunities to work on real-world ML/DL projects
+### 🚀 Featured Projects
 
-💬 Ask me about Python, Data Analysis & Machine Learning basics
-
-📫 Email: abdulrafayofficial@gmail.com
-
-⚡ Skip days? Never. Shorten the task, not the streak. 🔥
-
-🚀 130-Day AI/ML Challenge
-
-I'm following a structured learning path:
-
-Python
-   ↓
-NumPy & Pandas
-   ↓
-Data Analysis & Visualization
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-PyTorch
-   ↓
-LLMs
-   ↓
-RAG
-   ↓
-LangChain
-   ↓
-Agentic AI
-
-📌 Challenge Repository:https://github.com/abdulrafayofficial/130-Days-AIML-Challenge
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrafayofficial&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Abdul Rafay's GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayofficial&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
-
-🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=abdulrafayofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafayofficial&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph">
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdulrafayofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies">
-
-</div>
-
-⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abdulrafayofficial/130-Days-AIML-Challenge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=130-Days-AIML-Challenge&theme=tokyonight&hide_border=true" alt="130-Day AI ML Challenge">
-</a>
-
-</div>
-
-🤖 130-Day AI/ML Challenge
-
-A structured hands-on journey from Python fundamentals to Machine Learning, Deep Learning, LLMs, RAG and Agentic AI.
-
-Focus: Python • NumPy • Pandas • Scikit-learn • PyTorch • LLMs • RAG • LangChain
-
-🔗 View Repository
-
-🛠️ Languages & Tools
-
-🐍 Programming & Data
-
-<p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"></a>
-  <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="48" alt="NumPy"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="48" alt="Pandas"></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL"></a>
+<!--
+  Replace the repo links below with your actual project repos as you build them.
+  Format: https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=REPO_NAME
+-->
+<p align="center">
+  <a href="https://github.com/abdulrafayofficial/130-Days-AIML-Challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=130-Days-AIML-Challenge&theme=default" alt="130 Days AI/ML Challenge" />
+  </a>
 </p>
 
-🤖 Machine Learning & AI
+> 🔧 Add more pinned-style cards here as your capstone projects go live — e.g. `banking_system`, `titanic_complete`, `churn_predictor`, `rag_from_scratch`, `support_bot`, `research_assistant`.
 
-<p>
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="48" alt="Scikit-learn"></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"></a>
-  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV"></a>
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logoColor=white" alt="RAG">
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logoColor=white" alt="LLMs">
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrafayofficial&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Abdul Rafay's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafayofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
-🧰 Development Tools
-
-<p>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrafayofficial&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" height="165" />
 </p>
 
-📌 What I'm Working Toward
+---
 
-Build Strong Foundations       ████████████████████  100%
-Machine Learning               ███████████████░░░░░  In Progress
-Deep Learning                  ██████████░░░░░░░░░░  In Progress
-LLMs & RAG                     █████░░░░░░░░░░░░░░░  Learning
-Agentic AI                     ██░░░░░░░░░░░░░░░░░░  Exploring
-Real-World AI Projects         ██░░░░░░░░░░░░░░░░░░  Building
+### 📈 Contribution Activity
 
-🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafayofficial&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/abdulrafayofficial" alt="Abdul Rafay's Commit Graph" />
+</p>
 
-<img src="https://raw.githubusercontent.com/abdulrafayofficial/abdulrafayofficial/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+---
 
-</div>
+### 🌐 Connect with Me
 
-The Snake animation is generated automatically by GitHub Actions.
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-rafay-901936407/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/abdulrafayofficial" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="mailto:abdulrafayofficial@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
+  </a>
+</p>
 
-🤝 Connect With Me
+---
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abdul-rafay-901936407/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.kaggle.com/abdulrafayofficial">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
-
-<a href="https://github.com/abdulrafayofficial">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="mailto:abdulrafayofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
-
-<div align="center">
-
-💡 Developer Philosophy
-
-"Skip days? Never. Shorten the task, not the streak." 🔥
-
-⭐ If you find my work useful, consider giving a star to a repository!
-
-Thanks for visiting my profile! 🚀
-
-</div>
+<p align="center"><i>"Skip days? Never skip. Shorten the task, not the streak." 🔥</i></p>
