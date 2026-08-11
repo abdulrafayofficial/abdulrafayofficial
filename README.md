@@ -35,13 +35,12 @@
 | **Phase 3** | Core ML Foundations — Practical Machine Learning | 61 – 100 | ⏳ Upcoming |
 | **Phase 4** | Modern Applied AI — LLMs, RAG & Agentic Systems | 101 – 130 | ⏳ Upcoming |
 
-> 📌 Update the **Status** column as you clear each phase — change ⏳ to ✅
 
 ---
 
 ### 🚀 Featured Projects
 
-> ⚠️ This section only works once you've actually **created and pushed a repo** on GitHub with that exact name — otherwise the card shows a broken/error image. Add rows here as you finish each capstone:
+
 
 | Project | Description | Repo Link |
 |---|---|---|
@@ -51,7 +50,6 @@
 | RAG From Scratch | Hand-built Retrieval-Augmented Generation pipeline | *(coming — Day 115)* |
 | AI Customer Support Bot | LangChain conversational RAG system, deployed live | *(coming — Day 127-129)* |
 
-**Once a repo exists**, you can also show it as a visual card by replacing `REPO_NAME` below and pasting it here:
 ```
 https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=REPO_NAME&theme=tokyonight&cache_seconds=0
 ```
