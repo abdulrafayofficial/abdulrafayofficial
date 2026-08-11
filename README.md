@@ -8,16 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=abdulrafayofficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Challenge-130%20Days-0e75b6?style=flat&logo=github" alt="130 Day Challenge" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=flat" alt="status" />
-  <a href="https://github.com/abdulrafayofficial?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabdulrafayofficial&style=flat" alt="Total Repos" />
-  </a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Currently working on my **[130-Day AI/ML Roadmap](https://github.com/abdulrafayofficial)** — Python → Data Science → Machine Learning → LLMs & Agentic AI
+- 🔭 Currently working on my **130-Day AI/ML Roadmap** — Python → Data Science → Machine Learning → LLMs & Agentic AI
 - 🌱 Currently learning **Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, LangChain & RAG systems**
 - 💡 Building **130 hands-on projects** as part of this journey — one project per day, no skipping
 - 👯 Looking to collaborate on **AI/ML and Data Science projects**
@@ -38,23 +35,26 @@
 | **Phase 3** | Core ML Foundations — Practical Machine Learning | 61 – 100 | ⏳ Upcoming |
 | **Phase 4** | Modern Applied AI — LLMs, RAG & Agentic Systems | 101 – 130 | ⏳ Upcoming |
 
-> 📌 Tip: update the **Status** column as you clear each phase — change ⏳ to ✅
+> 📌 Update the **Status** column as you clear each phase — change ⏳ to ✅
 
 ---
 
 ### 🚀 Featured Projects
 
-<!--
-  Replace the repo links below with your actual project repos as you build them.
-  Format: https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=REPO_NAME
--->
-<p align="center">
-  <a href="https://github.com/abdulrafayofficial/130-Days-AIML-Challenge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=130-Days-AIML-Challenge&theme=default" alt="130 Days AI/ML Challenge" />
-  </a>
-</p>
+> ⚠️ This section only works once you've actually **created and pushed a repo** on GitHub with that exact name — otherwise the card shows a broken/error image. Add rows here as you finish each capstone:
 
-> 🔧 Add more pinned-style cards here as your capstone projects go live — e.g. `banking_system`, `titanic_complete`, `churn_predictor`, `rag_from_scratch`, `support_bot`, `research_assistant`.
+| Project | Description | Repo Link |
+|---|---|---|
+| 130-Day AI/ML Challenge | Full roadmap: Python → ML → LLMs & RAG, 130 daily builds | *(add link once repo is created)* |
+| Titanic ML Pipeline | End-to-end classification project (EDA → 4 models → evaluation) | *(coming — Day 70)* |
+| Customer Churn Predictor | Production ML project with FastAPI + Docker | *(coming — Day 90)* |
+| RAG From Scratch | Hand-built Retrieval-Augmented Generation pipeline | *(coming — Day 115)* |
+| AI Customer Support Bot | LangChain conversational RAG system, deployed live | *(coming — Day 127-129)* |
+
+**Once a repo exists**, you can also show it as a visual card by replacing `REPO_NAME` below and pasting it here:
+```
+https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=REPO_NAME&theme=tokyonight
+```
 
 ---
 
@@ -80,25 +80,26 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrafayofficial&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Abdul Rafay's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafayofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrafayofficial&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Abdul Rafay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrafayofficial&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" height="165" />
+  <img src="https://streak-stats.demolab.com?user=abdulrafayofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrafayofficial&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="80%" />
+</p>
+
+> ℹ️ If any card above shows blank/broken: give it a few seconds to load (these are live-generated images), or the underlying GitHub account may need at least one public repo/commit to have data to display.
 
 ---
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafayofficial&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/abdulrafayofficial" alt="Abdul Rafay's Commit Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafayofficial&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="90%" />
 </p>
 
 ---
@@ -106,14 +107,17 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-rafay-901936407/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/abdul-rafay-901936407/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/abdulrafayofficial" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  <a href="https://www.kaggle.com/abdulrafayofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:abdulrafayofficial@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/abdulrafayofficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
