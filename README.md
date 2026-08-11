@@ -53,7 +53,7 @@
 
 **Once a repo exists**, you can also show it as a visual card by replacing `REPO_NAME` below and pasting it here:
 ```
-https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=REPO_NAME&theme=tokyonight
+https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo=REPO_NAME&theme=tokyonight&cache_seconds=0
 ```
 
 ---
@@ -80,26 +80,29 @@ https://github-readme-stats.vercel.app/api/pin/?username=abdulrafayofficial&repo
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrafayofficial&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Abdul Rafay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrafayofficial&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Abdul Rafay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayofficial&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulrafayofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=abdulrafayofficial&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdulrafayofficial&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="80%" />
 </p>
 
-> ℹ️ If any card above shows blank/broken: give it a few seconds to load (these are live-generated images), or the underlying GitHub account may need at least one public repo/commit to have data to display.
+> ℹ️ **Agar upar wale cards phir bhi blank/broken dikhein:**
+> - Ye public demo servers (Vercel free tier) hain jo kabhi kabhi rate-limit ho jate hain — thodi der baad refresh karein
+> - Confirm karein ke `abdulrafayofficial` GitHub account pe kam az kam **1 public repo aur 1 commit** zaroor ho, warna stats ke paas data hi nahi hoga dikhane ke liye
+> - Agar issue barqarar rahe to apna khud ka `github-readme-stats` instance Vercel pe free deploy kar lein (sabse permanent fix) — batayein to main step-by-step guide de deta hun
 
 ---
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafayofficial&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafayofficial&theme=tokyo-night&hide_border=true&cache_seconds=0" alt="Contribution Activity Graph" width="90%" />
 </p>
 
 ---
